@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maobike
-- 👀 I’m interested in back a front
-- 🌱 I’m currently learning NodeJs, Angular, React and Java
+- 👀 I’m interested in back and front
+- 🌱 I’m currently learning NodeJs, Angular, React, Vue and Java
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me maomaoq@hotmail.com
 
